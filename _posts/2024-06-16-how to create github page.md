@@ -40,12 +40,12 @@ Make sure you install EVERYTHING.
 <details> 
 <summary><strong>Screenshots</strong></summary>
 
-<img src="/assets/img/ruby-install-1.png">
-<img src="/assets/img/ruby-install-2.png">
-<img src="/assets/img/ruby-install-3.png">
-<img src="/assets/img/ruby-install-4.png">
-<img src="/assets/img/ruby-install-5.png">
-<img src="/assets/img/ruby-install-6.png">
+<img src="/assets/img/ruby-install-1.png" alt="ruby install 1">
+<img src="/assets/img/ruby-install-2.png" alt="ruby install 2">
+<img src="/assets/img/ruby-install-3.png" alt="ruby install 3">
+<img src="/assets/img/ruby-install-4.png" alt="ruby install 4">
+<img src="/assets/img/ruby-install-5.png" alt="ruby install 5">
+<img src="/assets/img/ruby-install-6.png" alt="ruby install 6">
 </details>
 
 During the last steps of Ruby installation, a Command window is opened and it asks you to setup "MSYS2"; You will need to do all 3 options one at a time.
