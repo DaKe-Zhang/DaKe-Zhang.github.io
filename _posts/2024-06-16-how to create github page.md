@@ -53,10 +53,10 @@ During the last steps of Ruby installation, a Command window is opened and it as
 <details>
 <summary><strong>Screenshots</strong></summary>
 
-<img src="/assets/img/ruby-install-7.png">
-<img src="/assets/img/ruby-install-8.png">
-<img src="/assets/img/ruby-install-9.png">
-<img src="/assets/img/ruby-install-10.png">
+<img src="/assets/img/ruby-install-7.png" alt="ruby install 7">
+<img src="/assets/img/ruby-install-8.png" alt="ruby install 8">
+<img src="/assets/img/ruby-install-9.png" alt="ruby install 9">
+<img src="/assets/img/ruby-install-10.png" alt="ruby install 10">
 </details>
 
 Once you finish is recommended that you reboot your computer.  
@@ -121,8 +121,8 @@ If you read halfway you will find at "STEP 1 - Creating a New Site" that the the
 <details>
 <summary><strong>Screenshots</strong></summary>
 
-<img src="/assets/img/repo-install-1.png">
-<img src="/assets/img/repo-install-2.png">
+<img src="/assets/img/repo-install-1.png" alt="repo install 1">
+<img src="/assets/img/repo-install-2.png" alt="repor install 2">
 </details>  
 
 
